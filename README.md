@@ -8,7 +8,7 @@ Sample website with plenty of files for demos
 
 ## Deployment
 
-Here is where we talk on how to deploy app
+This appp can be installed on any webServer!!! 
 
 ## How To Contribute
 
