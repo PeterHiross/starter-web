@@ -4,6 +4,9 @@
 # TEAM
 
     <name> -- <role> -- <twitter>
+	Peter Hiross -- Developer -- phiross@gmail.com
+	Joe Montanta -- Developer -- jmontanta@gmail.com
+	Sam Iam		-- Tester -- g siam@gmail.com
 
 # THANKS
 
