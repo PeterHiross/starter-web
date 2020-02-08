@@ -2,3 +2,5 @@ Shopping List
 - bananas
 - apples
 - oranges
+- pears
+- grapes
